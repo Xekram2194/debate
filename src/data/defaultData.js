@@ -8,7 +8,7 @@ export const DEFAULT_DATA = {
     criticalThresholdSeconds: 10,
   },
   topics: [
-    { id: 't1', title: 'Seguridad Ciudadana y Orden Público', durationMinutes: 2, durationSeconds: 0 },
+    { id: 't1', title: 'Seguridad Ciudadana y Orden Público en Coya', durationMinutes: 2, durationSeconds: 0 },
     { id: 't2', title: 'Desarrollo Económico, Turismo y Agricultura Local', durationMinutes: 3, durationSeconds: 0 },
     { id: 't3', title: 'Salud, Saneamiento Básico y Educación', durationMinutes: 2, durationSeconds: 30 },
     { id: 't4', title: 'Mensaje Final y Compromiso con Coya', durationMinutes: 1, durationSeconds: 30 },
